@@ -1,1 +1,2 @@
 # Clone_a_Website
+The ownership of copyrights lies with their respective portals or creators. The source code provided is solely for reference purposes and should not be used without proper authorization or licensing. It is essential to respect the intellectual property rights of the content creators and adhere to any applicable terms of use, licensing agreements, or copyright policies. For any specific inquiries regarding the use of the source code, it is recommended to consult the portal or website's administrators or seek appropriate legal guidance.
